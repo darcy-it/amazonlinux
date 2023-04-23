@@ -1,5 +1,5 @@
 # show-global-ip.sh
-## グローバルIPをLinux(EC2)から表示する
+グローバルIPをLinux(EC2)から表示する
 
 # Docker Image
 ## Amazon ECR Public Gallery
